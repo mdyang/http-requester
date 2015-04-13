@@ -1,0 +1,1 @@
+Debugging HTTP-based applications, usually by using a package capturer and send requests with frequent re-compiled source code, is a hard task. The main focus of this project is to create an easy-to-use package creator for developers to send HTTP packages easily, so that developing and debugging these programs is no more a nightmare.
